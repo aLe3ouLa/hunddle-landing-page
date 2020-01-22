@@ -80,7 +80,6 @@
       font-family: var(--text-family--headings);
       font-size: 3rem;
       line-height: 1.7;
-      flex-wrap: wrap;
       margin: 3rem 0;
   }
 
@@ -118,6 +117,12 @@
       box-shadow: 0 2px 10px rgba(0,0,0,.1);
       padding: 3rem;
       margin: 4rem 0;
+  }
+
+  .card-title {
+    font-family: var(--text-family--headings);
+    font-size: 2rem;
+    line-height: 1.7;
   }
 
   .card-img img {
