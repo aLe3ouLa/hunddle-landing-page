@@ -15,7 +15,7 @@ footer {
 }
 
 .footer-location {
-  width: min-content;
+  width: 25%;
 }
 
 .location-list,
@@ -42,6 +42,7 @@ footer {
 
 .social-media__list {
     display: flex;
+    transform: translateX(-7rem);
 }
 
 .social-media__list li {

@@ -33,6 +33,7 @@
 
   .card-paragraph {
     line-height: 1.9;
+    width: 100%;
   }
 
   .popup {
@@ -60,5 +61,9 @@
   .links-list li,
   .social-media__list {
     margin-bottom: 2rem;
+  }
+
+  .social-media__list {
+    transform: translateX(0);
   }
 }
